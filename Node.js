@@ -1,5 +1,5 @@
 const http=require('http');
-const server = http.createServer(()=>{
+const server = http.createServer((req,res)=>{
     if(req.url=='/')
     {
         res.write('You have opended a page');
