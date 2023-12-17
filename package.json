@@ -1,0 +1,14 @@
+{
+  "name": "node-js-project",
+  "version": "1.0.0",
+  "description": "Node js first project created by Al imran",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al Imran",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
+}
